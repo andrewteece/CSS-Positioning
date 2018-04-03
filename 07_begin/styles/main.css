@@ -5,11 +5,12 @@ body {
 }
 
 h1 {
-    font-weight: normal;   
+    font-weight: normal;
+    clear: both;
 }
 
 em {
-    color: #dd740b;   
+    color: #dd740b;
 }
 
 .box {
@@ -21,9 +22,10 @@ em {
 
 .blueBox {
     background: #627da0;
+    float: left;
 }
 
 .greenBox {
-    background: #5b8054;  
+    background: #5b8054;
+    float: left;
 }
-
